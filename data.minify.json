@@ -1,1 +1,1 @@
-{"providers":{"leetcode.com":{"urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?leetcode\\.com","rules": ["envType","envId","favoriteSlug"],"redirections":["^https?:\\/\\/(?:[a-z0-9-]+\\.)*?leetcode\\.com\\/classic\\/problems"]}}}
+{"providers":{"leetcode.com":{"urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?leetcode\\.com","rules": ["envType","envId","favoriteSlug"],"redirections":["^https?:\\/\\/(?:[a-z0-9-]+\\.)*?leetcode\\.com\\/?classic?\\/problems"]}}}
