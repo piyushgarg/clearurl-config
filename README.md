@@ -11,7 +11,7 @@ http://docs.clearurls.xyz/
 
 ## make changes
 1. change data.minify.json
-2. generate sha256sum data.minify.json
+2. generate sha256sum data.minify.json `sha256sum -z data.minify.json | cut -d ' ' -f 1 | tr -d '\n' > rules.minify.hash`
 3. copy the checksum in rules.minify.json
 
 ## Click Extension Settings
